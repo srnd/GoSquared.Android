@@ -60,3 +60,7 @@ GoSquared.readMessage(message)
 ```
 
 That's about it for now. Stay tuned.
+
+## TODO
+
+- [ ] Custom chat bubble color
